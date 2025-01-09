@@ -1,0 +1,17 @@
+img {
+    max-width: 300px;
+    height: auto;
+    object-fit: contain;
+}
+
+header {
+    text-align: center;
+}
+
+body {
+    background-image: url("../images/fotografiaOPT-6000w.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
